@@ -1,0 +1,317 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&display=swap');
+*{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+nav{
+    position: fixed;
+background-color: white;
+z-index:9999;
+flex-wrap: wrap;
+}
+.ath{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    font-family: 'Hedvig Letters Sans', sans-serif;
+}
+.header{
+height: 80px;
+width: 95%;
+border: 2px solid rgba(0, 0, 0, 0);
+flex-wrap: wrap;
+}
+.firs{
+    height: 700px;
+width: 90%;
+border: 2px solid rgba(0, 0, 0, 0);
+margin: 50px;
+display: flex;
+position: relative;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+.im{
+    width: 90%;
+    border: 2px solid rgba(0, 0, 0, 0);
+    height: 700px;
+    
+}
+.imgf1{
+    width: 70%;
+    position: relative;
+   
+
+}
+.imgf2{
+    width: 30%;
+    
+}
+.cap1{
+    height: 200px;
+    width: 363px;
+position: absolute;
+top: 494px;
+right:26px ;
+}
+#p1{
+    position: absolute;
+    width: 100%;
+    height:100%px;
+}
+.cap1{
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    color: brown;
+}
+#un{
+    text-decoration: none;
+    color: black;
+}
+.secon{
+    height: 500px;
+width: 80%;
+border: 2px solid rgba(0, 0, 0, 0);
+margin: 50px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+.img3{
+    height: 498px;
+width: 50%;
+border: 1px solid rgba(0, 0, 0, 0);
+
+position: relative;
+}
+#p3{
+    position: absolute;
+    width: 100%;
+    height: 495px;
+}
+.cap2{
+    width: 50%;
+    height: 498px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    text-align: center;
+    flex-wrap: wrap;
+}
+button{
+    color: black;
+    background-color:wheat;
+    height: 50px;
+    width: 150px;
+    border: gray;
+}
+.third{
+    height: 500px;
+    width: 80%;
+    border: 2px solid rgba(0, 0, 0, 0);
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.cap3{
+    width: 50%;
+    height: 498px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    text-align: center;
+    flex-wrap: wrap;
+}
+.img4{
+    height: 498px;
+width: 50%;
+border: 1px solid rgba(0, 0, 0, 0);
+
+position: relative;
+}
+#p4{
+    position: absolute;
+    width: 100%;
+    height: 495px;
+}
+.forth{
+    height: 400px;
+    width: 80%;
+    border: 2px solid rgba(0, 0, 0, 0);
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cap4{
+    width: 50%;
+    height: 398px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    text-align: center;
+    flex-wrap: wrap;
+}
+.img5{
+    height: 398px;
+width: 50%;
+border: 1px solid rgba(0, 0, 0, 0);
+
+position: relative;
+}
+#p5{
+    position: absolute;
+    width: 100%;
+    height: 395px;
+}
+.cap5{
+    height: 150px;
+    width: 80%;
+    border: 2px solid rgba(0, 0, 0, 0);
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cap5{
+    text-align: center;
+}
+.fifth{
+    height: 700px;
+width: 90%;
+border: 2px solid rgba(0, 0, 0, 0.027);
+margin: 50px;
+display: flex;
+position: relative;
+flex-wrap: wrap;
+justify-content:space-between ;
+}
+.pic{
+    width: 20%;
+    border: 2px solid rgba(0, 0, 0, 0);
+    height: 700px;
+}
+.img6{
+   width: 50%;
+   position: absolute;
+   top: 86px;
+   height:610px ;
+   right: ;
+}
+.img7{
+    width: 20%;
+    position: absolute;
+    top: 48%;
+    right:30% ;
+    height: 356px;
+}
+.img8{
+    width: 29%;
+    position: absolute;
+    top: 48%;
+    right:0 ;
+    height: 356px;
+
+}
+.img9{
+    height: 317px;
+    width: 50%;
+    position: absolute;
+    top: 0%;
+    right: 0;
+}
+#vid{
+    width: 100%;
+    height:606px ;
+}
+#p7{
+    position: absolute;
+    width: 100%;
+    height: 355px;
+    
+}
+#p9{
+    position: absolute;
+    width: 100%;
+    height:312px ;
+}
+and{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:larger;
+    text-align: center;
+}
+.sixth{
+     height: 500px;
+    width: 90%;
+    border: 2px solid rgba(0, 0, 0, 0);
+    margin: 50px;
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    margin: 100px;
+    
+}
+.box{
+    width: 20%;
+    height: 497px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    position: relative;
+    flex-wrap: wrap;
+    margin: 50px;
+}
+.b1{
+    border: 2px solid rgba(0, 0, 0, 0);
+position: absolute;
+width:100% ;
+height:70% ;
+flex-wrap: wrap;
+}
+.b2{
+    border: 2px solid rgba(0, 0, 0, 0);
+    position: absolute;
+    width:100% ;
+    height:30% ;
+    top: 345px;
+    }
+.bb{
+    width:100% ;
+height:100% ;
+}
+or{
+    color: brown;
+}
+m{
+    font-family: 'Hedvig Letters Sans', sans-serif;
+}
+@media(max-width:991px){
+    .box{
+        width:33.33% ;
+
+    }
+    
+}
+@media(max-width:767px){
+    .box{
+        width:50% ;
+    }
+    
+
+
+
+}
+
+@media(max-width:567px){
+    .box{
+        width:100% ;
+    }
+    .img6{
+        width:100% ;
+
+    }
+    .img8{
+        width: 100%;
+        margin: 150px;
+        right: 500px;
+    }
+    nav{
+        
+    }
+}
